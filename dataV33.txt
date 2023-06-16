@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://freeimghost.net/i/5QTZh"},
+  {"desc2":"The world of video games has always been a captivating realm, where players can explore virtual worlds, undertake challenging quests, and engage in thrilling competitions. However","photo2":"https://freeimghost.net/i/5Q6ec"},
+  {"desc3":"The world of video games has always been a captivating realm, where players can explore virtual worlds, undertake challenging quests, and engage in thrilling competitions. However","photo3":"https://freeimghost.net/i/5Q0k8"},
+  {"desc4":"These unauthorized modifications, also known as cheats, grant players unfair advantages, undermining the integrity of the game and the experience for others","photo4":"https://freeimghost.net/i/5Q7gk"},
+  {"desc5":"In this article, we delve into the risks and consequences associated with cheating in private mods, shedding light on the darker side of gaming","photo5":"https://freeimghost.net/i/5QQT7"},
+  {"descd":"Private mods, or modifications, are alterations made to a game's code or files to introduce features or changes not intended or authorized by the game's developers","photod":"https://freeimghost.net/i/5QYGg"}
    ]
  
 }
